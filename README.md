@@ -10,3 +10,7 @@ The game must follow the rules of:
 4. If = 2 Neighbors, cell survives
 5. If = 3 Neighbors, cell will make a new occupied cell if unoccupied and if occupied, remain occupied.
 6. If >=4 Neighbors, cell dies by over crowding.
+
+Here's a randomly generated seed.
+
+![GameOfLife](https://github.com/Kiet-Luan/Conway_Game_Of_Life/assets/143954671/254db2c6-ca92-444d-8cff-fc202fd74140)
