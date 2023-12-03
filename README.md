@@ -14,3 +14,11 @@ The game must follow the rules of:
 Here's a randomly generated seed.
 
 ![GameOfLife](https://github.com/Kiet-Luan/Conway_Game_Of_Life/assets/143954671/254db2c6-ca92-444d-8cff-fc202fd74140)
+
+There are two files uploaded. The new version has been updated by:
+
+1. Removing unnecessary #include
+2. Removed pointers
+3. Simplified input and output operations
+4. Combined and condensed conditions into loop
+5. Added Comments
